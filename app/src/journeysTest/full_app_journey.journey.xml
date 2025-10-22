@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journey name="Full App Journey">
+    <description xml:space="preserve">A Journey that tests the entire application flow.</description>
+    <actions xml:space="preserve">
+        <action>Launch the app.</action>
+        <action>Verify that the Home screen is displayed.</action>
+        <action>Tap the Favorites icon in the bottom menu.</action>
+        <action>Verify that the Favorites screen is displayed.</action>
+        <action>Verify that the article with the title "Testing in Android" is displayed.</action>
+        <action>Tap the Profile icon in the bottom menu.</action>
+        <action>Verify that the Profile screen is displayed.</action>
+        <action>Verify that the name "Osama Sayed" is displayed.</action>
+        <action>Tap the Home icon in the bottom menu.</action>
+        <action>Verify that the Home screen is displayed.</action>
+        <action>Scroll down to the article with the title "Testing in Android".</action>
+        <action>Verify that the article with the title "Testing in Android" is displayed.</action>
+    </actions>
+</journey>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journey name="Home Screen Scroll Journey">
+    <description xml:space="preserve">A Journey that tests scrolling on the home screen.</description>
+    <actions xml:space="preserve">
+        <action>Launch the app.</action>
+        <action>Verify that the Home screen is displayed.</action>
+        <action>Scroll down to the article with the title "Testing in Android".</action>
+        <action>Verify that the article with the title "Testing in Android" is displayed.</action>
+    </actions>
+</journey>

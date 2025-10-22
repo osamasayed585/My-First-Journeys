@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journey name="Favorites Screen Journey">
+    <description xml:space="preserve">A Journey that tests the favorites screen.</description>
+    <actions xml:space="preserve">
+        <action>Launch the app.</action>
+        <action>Tap the Favorites icon in the bottom menu.</action>
+        <action>Verify that the Favorites screen is displayed.</action>
+        <action>Verify that the article with the title "Testing in Android" is displayed.</action>
+    </actions>
+</journey>

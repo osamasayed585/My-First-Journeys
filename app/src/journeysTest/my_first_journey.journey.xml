@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journey name="My first Journey">
+    <description xml:space="preserve">A Journey that tests ...</description>
+    <actions xml:space="preserve">
+        <action>Launch the app.</action>
+        <action>Verify that the Home screen is displayed by default.</action>
+        <action>Tap the Favorites icon in the bottom menu.</action>
+        <action>Verify that the Favorites screen is now displayed.</action>
+        <action>Tap the Profile icon in the bottom menu.</action>
+        <action>Verify that the Profile screen is now displayed.</action>
+        <action>Tap the Home icon to return to the Home screen.</action>
+        <action>Verify that the Home screen is displayed again.</action>
+        </actions>
+</journey>
